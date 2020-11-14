@@ -12,12 +12,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>
-          Hey there! My name is Jose, also known as <b>gori</b>, and I'm a
-          software engineer. Born in Venezuela, living in Ecuador and currently
-          looking for job. Trying my best with some React courses, especially
-          with Epic React®.
-        </p>
+        <p>HOLA SOY EL GORI ESTA ES UNA NUEVA BRANCH!!!</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
