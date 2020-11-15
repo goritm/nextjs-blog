@@ -13,9 +13,9 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hey there! My name is Jose, also known as <b>gori</b>, and I'm a
+          Hey there! My name is José, also known as <b>gori</b>, and I'm a
           software engineer. Born in Venezuela, living in Ecuador and currently
-          looking for job. Trying my best with some React courses, especially
+          looking for jobs. Trying my best with some React courses, especially
           with Epic React®.
         </p>
       </section>
